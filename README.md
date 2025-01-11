@@ -1,5 +1,12 @@
 # Production RAG Knowledge Assistant
 
+生产级 RAG 知识库问答 | Hybrid Search + Cross002dEncoder重排序 | 评估闭环 | Docker0026nbsp;部署
+
+[![CI](https://github.com/Gashen0/production-rag-knowledge-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/Gashen0/production-rag-knowledge-assistant/actions/workflows/ci.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/docker-supported-blue?logo=docker)](Dockerfile)
+
 基于 Hybrid Search + Cross-Encoder 重排序的生产级知识库问答系统。
 
 ## 项目概述
